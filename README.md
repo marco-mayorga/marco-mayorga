@@ -7,6 +7,8 @@
 Hello! Thanks for visiting my portfolio. My name is Marco Mayorga. I am a first-generation Mexican American college student working towards my degree In Computer Science.
 <br/>
 <br/>
+<br/>
+<br/>
 
 <!-- About Me in plain text/ pictures -->
 ---
