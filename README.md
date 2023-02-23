@@ -4,7 +4,7 @@
 <img align="right" src="typing.gif" height="190"/>
 <!-- About Me In python -->
 <h3 align="center">👨‍💻 About Me <h3/>
-Hello! Thanks for visiting my portfolio. My name is Marco Mayorga. I am a first-generation Mexican American college student working towards my degree In Computer Science.
+Hello! Thanks for visiting my portfolio. My name is Marco Mayorga. I am a first-generation college student working towards my degree In Computer Science.
 <br/>
 <br/>
 <br/>
